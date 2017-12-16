@@ -1,0 +1,24 @@
+iNSTRUCTIONS
+______________________
+
+ADMIN INFO
+username -- admin
+password -- admin
+
+
+___________________________
+
+there is a lecturer which is already added you can use it or add your own lecturer
+username -- musa
+password -- musa
+
+__________________________________
+__  Admin and lecturer uses the same login form 
+__ when you select there respective account type, they will be redirected to there respective dashboard
+__ you need to add courses for first and second semester
+__ you need to add more students
+__ when adding grades for a particular level , e.g level 100, you must add for first and second semester at ones.
+__ dont try to add for first semester and come back to add  for second semester , it will trigger a php error. (This is one of my legacy code dats why, its been long i visited it)
+__ you must add transcript before you can print it
+
+
